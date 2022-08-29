@@ -182,13 +182,13 @@ SECCIÓN 15–8 Potencia en circuitos RC.
 
 60. Determine Preal, Pr, Pa, y FP para el circuito de la figura 15-101. Trace el triángulo de potencia.
 
-
+![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ32.png)
 
 SECCIÓN 15–9 Aplicaciones básicas.
 
 62. Calcule la frecuencia de oscilación para el circuito de la figura 15-62 si todos los capacitores son de 0.0022 mF y todos los resistores de 10 kÆ.
 
-![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ32.png)
+![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ62.png)
 
 64. El valor rms del voltaje de señal que sale del amplificador A en la figura 15-105 es de 50 mV. Si la resistencia de entrada al amplificador B es de 10 kÆ, ¿qué tanto de la señal se pierde debido al capacitor de acoplamiento cuando la frecuencia es de 3 kHz?
 
