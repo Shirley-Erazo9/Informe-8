@@ -80,23 +80,25 @@ SECCIÓN 15–2 Respuesta sinusoidal de circuitos RC en serie.
 
 ![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ15.png)
 
-![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ15.1.png)
-
-![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ15.2.png)
-
 SECCIÓN 15–3 Impedancia de circuitos RC en serie.
 
 22. Determine la magnitud de la impedancia y el ángulo de fase en cada circuito de la figura 15-85.
 
-![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ16.png)
+![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ15.1.png)
+
+![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ15.2.png)
 
 24. Repita el problema 23 con C  0.0047 mF.
 
-![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ17..png)
+![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ16.png)
 
 SECCIÓN 15–4 Análisis de circuitos RC en serie.
 
 26. Exprese la corriente en forma polar para cada circuito de la figura 15-84.
+
+![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ17..png)
+
+28. Determine el ángulo de fase entre el voltaje aplicado y la corriente para cada circuito de la figura 15-85.
 
 ![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ18.png)
 
@@ -104,17 +106,13 @@ SECCIÓN 15–4 Análisis de circuitos RC en serie.
 
 ![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ18.2.png)
 
-28. Determine el ángulo de fase entre el voltaje aplicado y la corriente para cada circuito de la figura 15-85.
+30. Para el circuito de la figura 15-87, trace el diagrama fasorial que muestre todos los voltajes y la corriente total. Indique los ángulos de fase.
 
 ![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ19.png)
 
 ![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ19.1.png)
 
 ![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ19.2.png)
-
-30. Para el circuito de la figura 15-87, trace el diagrama fasorial que muestre todos los voltajes y la corriente total. Indique los ángulos de fase.
-
-![](
 
 32. ¿A qué valor se debe ajustar el reóstato de la figura 15-89 para hacer que la corriente total sea de 10 mA? ¿Cuál es el ángulo resultante?
 
