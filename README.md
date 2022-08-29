@@ -8,12 +8,17 @@ NRC: 7322.
 
 DOCENTE: ING. DARWIN OMAR ALULEMA FLORES.
 
-OBJETIVO GENERAL:Los circuitos RC son circuitos que están compuestos por una resistencia y un condensador.   
+OBJETIVO GENERAL.
 
+-Los circuitos RC son circuitos que están compuestos por una resistencia y un condensador.   
+
+-Un circuito RL es un circuito eléctrico que contiene una resistencia y una bobina en serie. Se dice que la bobina se opone transitoriamente al establecimiento de una corriente en el circuito.
 
 OBJETIVO ESPECÍFICO.
 
+-En un circuito RC la corriente puede variar con el tiempo.
 
+-Un circuito RL, se puede determinar como un circuito eléctrico que se puede construir con elementos de circuito pasivo de un resistor (R) y un inductor (L) conectados entre sí, a través de una fuente de corriente o de voltaje.
 
 MARCO TEÓRICO.
 
@@ -317,7 +322,13 @@ SECCIÓN 16–8 Aplicaciones básicas.
 
 ![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ62.2%20(2).png)
 
+CONCLUSIONES.
+
+-En conclusioón, en los circuitos RC el condensador está descargado, en el momento que empieza a correr el tiempo, el condensador comienza a cargarse ya que hay una corriente en el circuito. 
+
+-En conclusión, los circuitos RL se utilizan con frecuencia en amplificadores de RF como fuentes de alimentación de CC, dondequiera que se utilice el inductor (L) para suministrar corriente de polarización de CC y bloquear la RF desde la fuente de alimentación.
 
 
+BIBLIOGRAFÍA.
 
-
+Floyd, T. (2007). Principios de circuitos eléctricos (8.a ed., Vol. 1). Pearson Education. http://media.espora.org/mgoblin_media/media_entries/1455/Principios_de_circuitos_electricos.pdf 0 comments on commit 73edc1a.
