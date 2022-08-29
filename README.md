@@ -17,11 +17,11 @@ OBJETIVO ESPECÍFICO.
 
 MARCO TEÓRICO.
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/MPC1.jpeg)
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/MPC2.jpeg)
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/MPC3.jpeg)
 
 EJERCICIOS PROPUESTOS.
 
@@ -198,7 +198,7 @@ SECCIÓN 15–10 Localización de fallas.
 
 66. Los capacitores de la figura 15-107 han desarrollado un resistencia de fuga de 2 kÆ. Determine los voltajes de salida en esta condición para cada circuito.
 
-(![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ35.png)
+![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ35.png)
 
 68. Determine el voltaje de salida para el circuito de la figura 15-107(b) para cada uno de los siguientes modos de falla, y compárelo con la salida correcta:
 
