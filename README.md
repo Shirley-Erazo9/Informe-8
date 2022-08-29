@@ -118,19 +118,21 @@ SECCIÓN 15–4 Análisis de circuitos RC en serie.
 
 32. ¿A qué valor se debe ajustar el reóstato de la figura 15-89 para hacer que la corriente total sea de 10 mA? ¿Cuál es el ángulo resultante?
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ20.png)
 
 34. Para el circuito de retraso de la figura 15-91, determine el desplazamiento de fase entre el voltaje de entrada y el voltaje de salida para cada una de las siguientes frecuencias:
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ21.png)
+
+![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ21.1.png)
 
 36. Repita el problema 34 para el circuito de adelanto de la figura 15-92.
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ22.png)
 
 38. Trace el diagrama fasorial de voltaje para el circuito de la figura 15-91 para una frecuencia de 5 kHz con Vs  1 V rms.
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ23.png)
 
 PARTE 2: CIRCUITOS EN PARALELO.
 
@@ -138,22 +140,24 @@ SECCIÓN 15–5 Impedancia y admitancia de circuitos RC en paralelo.
 
 40. Determine la impedancia y exprésela en forma polar para el circuito de la figura 15-93.
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ24.png)
 
 42. Repita el problema 41 para las siguientes frecuencias:
 (a) 1.5 kHz (b) 3 kHz (c) 5 kHz (d) 10 kHz.
 
-![]( 
+![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ25.png)
+
+![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ25.1.png)
 
 SECCIÓN 15–6 Análisis de circuitos RC en paralelo.
 
 44. Para el circuito en paralelo de la figura 15-96, encuentre la magnitud de cada corriente de rama y la corriente total. ¿Cuál es el ángulo de fase entre el voltaje aplicado y la corriente total?
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ26.png)
 
 46. Repita el problema 45 con R  5.6 kÆ, C1  0.047 mF, C2  0.022 mF, y f  500 Hz.
 
-![](
+![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ27.png)
 
 48. Determine el valor al cual R1 debe ser ajustado para obtener un ángulo de fase de 30° entre el voltaje de fuente y la corriente total en la figura 15-99.
 
