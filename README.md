@@ -160,6 +160,48 @@ SECCIÓN 15–7 Análisis de circuitos RC en serie-paralelo.
 
 ![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ27.png)
 
+52. Para el circuito de la figura 15-101, determine lo siguiente:
 
+![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ28.png)
+
+54. Determine el voltaje y su ángulo de fase en cada punto rotulado en la figura 15-103.
+
+![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ29.png)
+
+56. Trace el diagrama fasorial de voltaje y corriente para la figura 15-103.
+
+![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ30.png)
+
+PARTE 4: TEMAS ESPECIALES.
+
+SECCIÓN 15–8 Potencia en circuitos RC.
+
+58. En la figura 15-88, ¿cuáles son la potencia real y la potencia reactiva?
+
+![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ31.png)
+
+60. Determine Preal, Pr, Pa, y FP para el circuito de la figura 15-101. Trace el triángulo de potencia.
+
+![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ32.png)
+
+SECCIÓN 15–9 Aplicaciones básicas.
+
+62. Calcule la frecuencia de oscilación para el circuito de la figura 15-62 si todos los capacitores son de 0.0022 mF y todos los resistores de 10 kÆ.
+
+![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ34.png)
+
+64. El valor rms del voltaje de señal que sale del amplificador A en la figura 15-105 es de 50 mV. Si la resistencia de entrada al amplificador B es de 10 kÆ, ¿qué tanto de la señal se pierde debido al capacitor de acoplamiento cuando la frecuencia es de 3 kHz?
+
+![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ35.png)
+
+SECCIÓN 15–10 Localización de fallas.
+
+66. Los capacitores de la figura 15-107 han desarrollado un resistencia de fuga de 2 kÆ. Determine los voltajes de salida en esta condición para cada circuito.
+
+![](
+
+68. Determine el voltaje de salida para el circuito de la figura 15-107(b) para cada uno de los siguientes modos de falla, y compárelo con la salida correcta:
+
+![](
 
 
