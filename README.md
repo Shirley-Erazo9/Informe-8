@@ -78,11 +78,13 @@ SECCIÓN 15–2 Respuesta sinusoidal de circuitos RC en serie.
 
 20. ¿Cuál es la forma de onda de la corriente en el circuito del problema 19?
 
-![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ15.png)
+![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ10.png)
 
 SECCIÓN 15–3 Impedancia de circuitos RC en serie.
 
 22. Determine la magnitud de la impedancia y el ángulo de fase en cada circuito de la figura 15-85.
+
+![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ15.png)
 
 ![](https://github.com/Shirley-Erazo9/Informe-8/blob/main/EJ15.1.png)
 
